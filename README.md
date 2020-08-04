@@ -1,10 +1,5 @@
 ### Oh! Wham now? 👋
-
-<!--
-**kroikie/kroikie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+<img src="https://raw.githubusercontent.com/samtstern/samtstern/master/SparkyWFH-01.png" align="right" width="300px"></img>
 
 - 🌍 I work from California (🇹🇹 to de bone)
 - 🔥 I’m currently working on Firebase + Flutter
